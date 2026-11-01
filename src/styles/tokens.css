@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Oswald:wght@400;500;600;700&display=swap');
+
+:root { --obsidian:#101010; --charcoal:#202020; --bone:#e8e5de; --red:#b52b25; --steel:#777; --display:'Oswald', Impact, sans-serif; --body:'Inter', Arial, sans-serif; --line:1px solid rgba(232,229,222,.24); --page: min(100% - 64px, 1440px); }
+@media (max-width: 640px) { :root { --page: min(100% - 32px, 1440px); } }
